@@ -2,8 +2,8 @@
 /**
  * phpIp2Country class
  * 
- * @author Mariusz Górski
- * @copyright 2008 Mariusz Górski
+ * @author Mariusz GÃ³rski
+ * @copyright 2008 Mariusz GÃ³rski
  * @name phpIp2Country
  * @version 1.0
  * @link http://code.google.com/p/php-ip-2-country/
